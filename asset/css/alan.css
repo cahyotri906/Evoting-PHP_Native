@@ -1,0 +1,91 @@
+body{
+padding:0;
+	margin:0;
+	background: url(/assets/img/indonesia.jpg)no-repeat; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	background-size: cover;
+	font-family: 'Roboto Condensed', sans-serif;
+	background-attachment: fixed; 	
+		}
+		#primary {
+			color: White;
+		}
+		#nav *{
+			height: 90px;
+			background: #;
+		}
+		.navbar-default{
+			background-color: #ffb700;
+			margin-bottom: 0;
+		}
+		h1{
+			color: #FFC81B;
+			font-family: sans-serif;
+			font-size: 28px;
+			text-align: center;
+			font-weight: bold;
+		}
+		#h2{
+			color: white;
+			font-family: sans-serif;
+			font-size: 22px;
+			text-align: center;
+			font-weight: bold;
+			margin-top: 15px;
+			margin-bottom: 20px;
+		}
+		#default{
+			width: 350px;
+			background: #3399ff;
+			border: none;
+		}
+		.panel-default label{
+			font-size: 16px;
+			color:white;
+		}
+		#primary{
+			border: none;
+			height: 50px;
+			width: 100%;
+			background: #FFC81B;
+			
+			font-size: 18px;
+			font-weight: bold;
+		}
+		#kpo{
+			margin-top: 50px;
+		}
+		#cara{
+			margin-top: 100px;
+			color: white;
+			font-size: 17px;
+		}
+		#row{
+			margin-bottom: 100px;
+		}
+		#foot{
+			background: #;
+			border: none;
+		}
+		div#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+		.navbar-default .navbar-text {
+		    color: black;
+		}
+		.navbar-default #alamat {
+		    color: black;
+		    font-weight: bold;
+		}
+		#txt{
+			font-size: 18px;
+		}

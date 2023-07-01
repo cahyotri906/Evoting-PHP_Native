@@ -1,0 +1,1 @@
+<h1> <img class="img-responsive" src="asset/img/tkj.png" align="center" width="200" />  Klik Pemilu di Atas Untuk Memilih!</h1> 
